@@ -99,3 +99,10 @@
 <p align="center">
   <img width="200" src="https://komarev.com/ghpvc/?username=headshot-baby" alt="Border">
 </p>
+
+<p align="center"> 
+  <img width="717" height="116" src="https://i.imgur.com/rd7LjbT.png">
+</p>
+<p align="center"> 
+  <img width="719" height="413" src="https://64.media.tumblr.com/eb2d3687e1b0584682d59af3df6d68ac/fa52bb031fc781f7-e4/s1280x1920/c1d5237d33aac959037400f00a0ba22f2bcffab5.pnj">
+</p>
