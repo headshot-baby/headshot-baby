@@ -1,4 +1,4 @@
-## Hi there 👋
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22fi2ddkxx4ksq54pirlce6pi&cover_image=true&theme=novatorem&show_offline=false&background_color=ff1259&interchange=true&bar_color_cover=true&bar_color=ff0059)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **headshot-baby/headshot-baby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
