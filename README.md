@@ -15,7 +15,7 @@
 </p>
 
 <p align="center"> 
-  <img width="700" src="https://64.media.tumblr.com/37143508194d64300cb0887243652f4e/bd4f953fbbd018c8-a9/s1280x1920/9468b7905f36b3aaa3e7758f497964cb6c02fd8a.pnj">
+  <img width="700" src="https://imgur.com/5JYSmqI.png">
 </p>
 
 <p align="center">
@@ -114,3 +114,8 @@
 <p align="center"> 
   <img width="719" height="413" src="https://64.media.tumblr.com/eb2d3687e1b0584682d59af3df6d68ac/fa52bb031fc781f7-e4/s1280x1920/c1d5237d33aac959037400f00a0ba22f2bcffab5.pnj">
 </p>
+
+
+
+https://github.com/user-attachments/assets/1a3bf865-308e-4505-acd2-26d57c9018d6
+
