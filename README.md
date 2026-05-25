@@ -14,6 +14,10 @@
   <img width="715" src="https://64.media.tumblr.com/0452ce68a5416cf5a513605173e14bd2/695afbcff27c3018-b3/s2048x3072/cc13867481f6d7d238f607cee4b851a77844e6b9.pnj">
 </p>
 
+<p align="center"> 
+  <img width="700" src="https://64.media.tumblr.com/37143508194d64300cb0887243652f4e/bd4f953fbbd018c8-a9/s1280x1920/9468b7905f36b3aaa3e7758f497964cb6c02fd8a.pnj">
+</p>
+
 <p align="center">
   <img width="400" src="https://i.imgur.com/JDeLalZ.gif" alt="Border">
 </p>
@@ -45,6 +49,10 @@
 
 <p align="center"> 
   <img width="715" src="https://64.media.tumblr.com/0452ce68a5416cf5a513605173e14bd2/695afbcff27c3018-b3/s2048x3072/cc13867481f6d7d238f607cee4b851a77844e6b9.pnj">
+</p>
+
+<p align="center"> 
+  <img width="700" src="https://64.media.tumblr.com/dba19baee4fa40d1a554f7e7f24608a7/24023d8928b994b3-b5/s2048x3072/af17cfeab020cb3333d230a3bc29f32ee6803e0f.pnj">
 </p>
 
 <p align="center"> 
